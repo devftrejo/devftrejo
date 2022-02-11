@@ -22,9 +22,11 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> from the United States.
 
-- :telescope: I’m a full - time student at the University of Advancing Technology in Tempe, AZ.
+- :man_student: I’m a full - time student at the University of Advancing Technology in Tempe, AZ.
 
 - :seedling: I'm currently studying/learning three.js and C++.
+
+- :computer: I'm always looking to collaborate with others on projects.
 
 - :zap: In my free time, I practice my coding skills, work on my car, or spend time with my loved ones.
 
@@ -67,12 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/RbDKaczqWovI
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devftrejo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### :laughing: Dev Joke :
+
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=gradientBlue)
