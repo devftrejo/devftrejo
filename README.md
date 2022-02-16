@@ -35,7 +35,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/RbDKaczqWovI
 
 - :speech_balloon: Ask me about Full Stack Development, or any other skills I possess.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-devftrejo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devftrejo/)
+- :mailbox:How to reach me:
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/devftrejo/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <br>
+    <a href="mailto:devftrejo@gmail.com">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="GMailIcon" height="30" style="vertical-align:top; margin:10px">
+    </a>
+  </div>
 
 ---
 
