@@ -25,17 +25,19 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50"> from the United States.
 
-- :man_student: I’m a full - time student at the University of Advancing Technology in Tempe, AZ.
-                I am a Bachelor of Science Major, Advancing Computer Science program, (Planning a double major into UAT's Artificial Intelligence Program.).
-                I also graduated from Nucamp Coding Bootcamp on November 29th, 2021, (Completed the Full Stack Web and Mobile Development program.).
+- :man_student: I’m a full-time student at the University of Advancing Technology in Tempe, AZ.<br>
+  - Bachelor of Science Major, Advancing Computer Science program, (Planning a double major into UAT's Artificial Intelligence Program.).<br>
+  - I also graduated from Nucamp Coding Bootcamp on November 29th, 2021, (Completed the Full Stack Web and Mobile Development program.).
 
-- :seedling: I'm currently studying/learning three.js and C++.
+- :seedling: I'm currently studying/learning:<br>
+  - three.js on the side of my classes at UAT.<br>
+  - C++ in my current semester with UAT.
 
 - :computer: I'm always looking to collaborate with others on projects.
 
 - :zap: In my free time, I practice my coding skills, work on my car, or spend time with my loved ones.
 
-- :speech_balloon: Ask me about Full Stack Development, or any other skills I possess.
+- :speech_balloon: Ask me about Full Stack Development, C++, or any other skill I possess.
 
 - :mailbox:How to reach me:
   <div id="badges">
