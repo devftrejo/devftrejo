@@ -26,6 +26,8 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50"> from the United States.
 
 - :man_student: I’m a full - time student at the University of Advancing Technology in Tempe, AZ.
+                I am a Bachelor of Science Major, Advancing Computer Science program, (Planning a double major into UAT's Artificial Intelligence Program.).
+                I also graduated from Nucamp Coding Bootcamp on November 29th, 2021, (Completed the Full Stack Web and Mobile Development program.).
 
 - :seedling: I'm currently studying/learning three.js and C++.
 
