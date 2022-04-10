@@ -31,7 +31,7 @@
 
 - :seedling: I'm currently studying/learning:<br>
   - three.js on the side of my classes at UAT.<br>
-  - C++ in my current semester with UAT.
+  - IoT, (Internet of Things), in my current semester at UAT.
 
 - :computer: I'm always looking to collaborate with others on projects.
 
