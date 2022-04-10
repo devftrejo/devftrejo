@@ -23,7 +23,7 @@
 
 ### :man_technologist: About Me :
 
-- I'm a Full Stack Developer. <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="70">
+- I'm a Full Stack Developer. <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100">
 
 - :man_student: I’m a full-time student at the University of Advancing Technology in Tempe, AZ.<br>
   - Bachelor of Science Major, Advancing Computer Science program, (Planning a double major into UAT's Artificial Intelligence Program.).<br>
