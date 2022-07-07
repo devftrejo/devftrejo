@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=devftrejo&style=flat-square&color=blue" alt=""/>
   <h1>
     Hello!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"/>
   </h1>
 </div>
 
@@ -30,6 +30,7 @@
   - I also graduated from Nucamp Coding Bootcamp on November 29th, 2021, (Completed the Full Stack Web and Mobile Development program.).
 
 - :seedling: I'm also currently studying/learning:<br>
+  - Python at UAT, (Summer Semester).<br>
   - three.js on the side of my classes at UAT.<br>
 
 - :computer: I'm always looking to collaborate with others on projects.
