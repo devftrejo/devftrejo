@@ -30,14 +30,14 @@
   - I also graduated from Nucamp Coding Bootcamp on November 29th, 2021, (Completed the Full Stack Web and Mobile Development program.).
 
 - :seedling: I'm also currently studying/learning:<br>
-  - Python at UAT, (Summer Semester).<br>
+  - Machine Learning at UAT, (Fall Semester).<br>
   - three.js on the side of my classes at UAT.<br>
 
 - :computer: I'm always looking to collaborate with others on projects.
 
 - :zap: In my free time, I practice my coding skills, work on my car, or spend time with my loved ones.
 
-- :speech_balloon: Ask me about Full Stack Development, C++, or any other skill I possess.
+- :speech_balloon: Ask me about Full Stack Development, or any other skill set I possess.
 
 - :mailbox:How to reach me:
   <div id="badges">
