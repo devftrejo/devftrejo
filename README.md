@@ -14,7 +14,6 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"/>
   </h1>
 </div>
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -23,21 +22,20 @@
 
 ### :man_technologist: About Me :
 
-- I'm a Full Stack Developer. <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100">
+- I'm a Full Stack JavaScript Developer. <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100">
 
-- :man_student: I’m a full-time student at the University of Advancing Technology in Tempe, AZ.<br>
-  - Bachelor of Science Major, Advancing Computer Science program, 4.0 GPA, (Planning a double major into UAT's Artificial Intelligence Program.).<br>
+- :man_student: I’m a full-time student at the University of Advancing Technology (UAT) in Tempe, AZ.<br>
+  - Bachelor of Science Major, Advancing Computer Science program, 4.0 GPA, (Double Majoring into UAT's Artificial Intelligence Program.).<br>
   - I also graduated from Nucamp Coding Bootcamp on November 29th, 2021, (Completed the Full Stack Web and Mobile Development program.).
 
 - :seedling: I'm also currently studying/learning:<br>
-  - Machine Learning at UAT, (Fall Semester).<br>
-  - three.js on the side of my classes at UAT.<br>
+  - three.js on the side of my other activities.<br>
 
 - :computer: I'm always looking to collaborate with others on projects.
 
 - :zap: In my free time, I practice my coding skills, work on my car, or spend time with my loved ones.
 
-- :speech_balloon: Ask me about Full Stack Development, or any other skill set I possess.
+- :speech_balloon: Ask me about Full Stack JavaScript Development, or any other skill set I possess.
 
 - :mailbox:How to reach me:
   <div id="badges">
@@ -72,13 +70,13 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge"/>
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku Badge"/>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
   <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="JWT Badge"/>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio Badge"/>
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Badge"/>
-  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" alt="Atom Badge"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio Badge"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode Badge"/>
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm Badge"/>
