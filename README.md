@@ -27,7 +27,7 @@
   - Bachelor of Science Major, Advancing Computer Science program, 4.0 GPA, (Double Majoring into UAT's Artificial Intelligence Program.).<br>
   - I also graduated from Nucamp Coding Bootcamp on November 29th, 2021, (Completed the Full Stack Web and Mobile Development program.).
 
-- :seedling: I'm currently a Software Engineering Apprentice at Underdog Devs <br>
+- :seedling: I'm currently a Software Engineering Apprentice at Underdog Devs. <br>
 
 - :computer: I'm always looking to collaborate with others on projects.
 
