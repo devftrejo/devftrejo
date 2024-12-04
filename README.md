@@ -24,16 +24,16 @@
 - I'm a Full Stack JavaScript Developer. <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100">
 
 - :man_student: I’m a full-time student at the University of Advancing Technology (UAT) in Tempe, AZ.<br>
-  - Bachelor of Science Major, Computer Science program, 4.0 GPA, Expected Graduation Date is June 2025, (Double Majoring into UAT's Artificial Intelligence Program.).<br>
+  - Bachelor of Science Major, Computer Science program, 4.0 GPA, Expected Graduation Date is September 2025, (Double Majoring into UAT's Artificial Intelligence Program.).<br>
   - Graduated from Nucamp Coding Bootcamp on November 29th, 2021, (Completed the Full Stack JavaScript Development program.).
   - Nucamp Coding Bootcamp Ambassador & Web Developer, (May 2023 to Current).
   - Finished a Software Engineering Apprenticeship program with Underdog Devs, (November 14th, 2022 to July 14th, 2023).
 
-- :seedling: I just started a startup tech company - ${DarkMode} Devs
+- :seedling: I launched my own startup tech company - ${DarkMode} Devs
 
-- :computer: I'm currently building projects for my first clients, hosting online Web Dev events, and I'm collaborating with other devs on other projects.
+- :computer: I'm currently building projects for my first clients, hosting online Web Dev events, and collaborating with other devs on other projects.
 
-- :zap: In my free time, I practice my coding skills, work on my car, game online, or spend time with my loved ones.
+- :zap: In my free time I spend time with my loved ones and PC game with friends.
 
 - :speech_balloon: Ask me about Full Stack JavaScript Development, or any other skill set I possess.
 
